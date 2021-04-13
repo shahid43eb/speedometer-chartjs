@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/speedometer-charjs/static/js/main.b27f8729.chunk.js",
+    "main.js.map": "/speedometer-charjs/static/js/main.b27f8729.chunk.js.map",
+    "runtime~main.js": "/speedometer-charjs/static/js/runtime~main.96f07333.js",
+    "runtime~main.js.map": "/speedometer-charjs/static/js/runtime~main.96f07333.js.map",
+    "static/js/2.85a304aa.chunk.js": "/speedometer-charjs/static/js/2.85a304aa.chunk.js",
+    "static/js/2.85a304aa.chunk.js.map": "/speedometer-charjs/static/js/2.85a304aa.chunk.js.map",
+    "index.html": "/speedometer-charjs/index.html",
+    "precache-manifest.272669ba99a508d8df5c766bfa6cec2a.js": "/speedometer-charjs/precache-manifest.272669ba99a508d8df5c766bfa6cec2a.js",
+    "service-worker.js": "/speedometer-charjs/service-worker.js"
+  }
+}
