@@ -1,5 +1,5 @@
 {
-  "homepage": "https://shahid43eb.github.io/speedometer-charjs",
+  "homepage": "http://shahid43eb.github.io/speedometer-charjs",
   "name": "speedometer-charjs",
   "version": "1.0.0",
   "description": "",
@@ -21,7 +21,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
+    "predeploy": "yarn run build",
     "deploy": "gh-pages -d build"
   },
   "browserslist": [

@@ -7,7 +7,7 @@ export default ()=> {
     afterInit: chart => {
       const ctx = chart.chart.ctx;
       const dataset=chart.chart.config.data.datasets[0];
-      const gradient = ctx.createLinearGradient(dataset.data[0]*4,dataset.data[0]*5, 1000,0);
+      const gradient = ctx.createLinearGradient(dataset.data[0]*4,dataset.data[1]*5, 1000,500);
       gradient.addColorStop(0, '#04C0FF');
       gradient.addColorStop(0.5, '#26BD16');
       dataset.backgroundColor[0] = gradient;
@@ -19,7 +19,7 @@ export default ()=> {
     labels: ["Green", "Gray"],
     datasets: [
       {
-        data: [0,100],
+        data: [90,10],
         backgroundColor: ['green','#E7E7E7'],
         hoverBackgroundColor: ['green','#E7E7E7'],
         borderWidth: [0, 0],
